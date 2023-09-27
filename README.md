@@ -8,7 +8,7 @@ Installing Tidal Connect on piCorePlayer can significantly increase the size of 
 ------------
 Install avahi.tcz, ipv6-netfilter-5.15.35-pcpCore-v7.tcz, Tidal Connect.
 > 
-> Coming soon...
+> wget -O - https://raw.githubusercontent.com/lovehifi/tidalconnect-picore/main/install.sh | sh
 >
 ----------------
 After installation, you need to perform the following steps:
