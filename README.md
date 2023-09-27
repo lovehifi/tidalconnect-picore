@@ -21,4 +21,4 @@ User command #1:
 User command #2:
 > /home/tc/Tidal-Connect-Armv7/tidal.sh
 >
-Save and reboot your system.
+Click button Save, reboot your system.
