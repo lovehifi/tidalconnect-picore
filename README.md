@@ -1,0 +1,3 @@
+# Tidal Connect for PiCorePlayer
+
+Coming soon...
