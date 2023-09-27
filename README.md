@@ -11,4 +11,16 @@ To get it working on piCorePlayer (version 8.2.0), you first need to go to Exten
 >
 > ipv6-netfilter-5.15.35-pcpCore-v7.tcz
 >
+----------
+Install
 Coming soon...
+>
+----------------
+After installation, you need to perform the following steps:
+
+Open the Tweaks page and add the following:
+User command #1:
+> /usr/local/etc/init.d/avahi start
+
+User command #2:
+> /home/tc/usr/ifi/ifi-tidal/Tidal-Connect-Armv7/tidal.sh
