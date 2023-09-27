@@ -18,7 +18,7 @@ Coming soon...
 ----------------
 After installation, you need to perform the following steps:
 
-Open the Tweaks page and add the following:
+Open the Tweaks page and add the following
 >
 User command #1:
 > /usr/local/etc/init.d/avahi start
