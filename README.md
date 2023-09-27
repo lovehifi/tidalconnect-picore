@@ -24,8 +24,10 @@ User command #2:
 Click button Save, reboot your system.
 
 ------------------------------
-I gather them from these repositories:
+I gather them from these repositories to make them into an easy-to-install bundle.
 >
 https://github.com/GioF71/tidal-connect
+>
 ​https://github.com/TonyTromp/tidal-connect-docker
+>
 ​https://github.com/vcucek/ifi-tidal-moode
