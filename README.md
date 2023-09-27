@@ -24,7 +24,7 @@ User command #2:
 Click button Save, reboot your system.
 
 ------------------------------
-I gather them from these repositories to make them into an easy-to-install bundle.
+I gather them from these repositories to make them into an easy-to-use.
 >
 https://github.com/GioF71/tidal-connect
 >
