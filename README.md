@@ -22,3 +22,10 @@ User command #2:
 > /home/tc/Tidal-Connect-Armv7/tidal.sh
 >
 Click button Save, reboot your system.
+
+------------------------------
+I gather them from these repositories:
+>
+https://github.com/GioF71/tidal-connect
+​https://github.com/TonyTromp/tidal-connect-docker
+​https://github.com/vcucek/ifi-tidal-moode
