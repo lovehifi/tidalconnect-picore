@@ -24,6 +24,6 @@ User command #1:
 > /usr/local/etc/init.d/avahi start
 
 User command #2:
-> /home/tc/usr/ifi/ifi-tidal/Tidal-Connect-Armv7/tidal.sh
+> /home/Tidal-Connect-Armv7/tidal.sh
 >
 Next, go to the Main page and click on Backup. After completing that, reboot your system.
