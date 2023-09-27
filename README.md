@@ -25,3 +25,5 @@ User command #1:
 
 User command #2:
 > /home/tc/usr/ifi/ifi-tidal/Tidal-Connect-Armv7/tidal.sh
+>
+Next, go to the Main page and click on Backup. After completing that, reboot your system.
