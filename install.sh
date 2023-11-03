@@ -10,6 +10,9 @@ tce-load -wi avahi.tcz libavahi.tcz ipv6-netfilter-5.15.35-pcpCore-v7.tcz
 cd ~
 wget https://raw.githubusercontent.com/lovehifi/tidalconnect-picore/main/Tidal-Connect-Armv7.tar.gz
 tar -xzvf Tidal-Connect-Armv7.tar.gz --overwrite -C /
+cd /tmp
+wget https://raw.githubusercontent.com/lovehifi/tidalconnect-picore/main/ipv6-netfilter-5.15.35-pcpCore-v7l.tcz
+cp -f /tmp/ipv6-netfilter-5.15.35-pcpCore-v7l.tcz /mnt/mmcblk0p2/tce/optional/
 
 cd /mnt/$TARGET/optional
 echo "Download"
