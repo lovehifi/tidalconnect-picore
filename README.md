@@ -15,13 +15,13 @@ After installation, you need to perform the following steps:
 
 Open the Tweaks page and add the following
 >
-> In the tweaks page, Shairport-sync to Yes.
+> In the tweaks page, **Shairport-sync to Yes**.
 >
-User command #1:
-> /usr/local/etc/init.d/avahi start
+Add User command #1:
+> **/usr/local/etc/init.d/avahi start**
 
-User command #2:
->  /home/tc/Tidal-Connect-Armv7/tidal.sh start
+Add User command #2:
+>  **/home/tc/Tidal-Connect-Armv7/tidal.sh start**
 >
 Click button Save, reboot your system.
 >
