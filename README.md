@@ -28,7 +28,7 @@ Click button Save, reboot your system.
 ----------------------------
 I've created a build of the IMG piCorePlayer 8.2, and I've added Tidal Connect to it. You can try  using it (IMG) if you want.
 >
-Download: https://drive.google.com/file/d/1Ox2RJ8kQ_XSpZFzUBxtDSs5w46JZDmm4
+**Download IMG:** https://drive.google.com/file/d/1Ox2RJ8kQ_XSpZFzUBxtDSs5w46JZDmm4
 >
 ------------------------------
 I gather them from these repositories to make them easy to use.
