@@ -29,10 +29,10 @@ echo "ifiLib4.tcz" >> /mnt/mmcblk0p2/tce/onboot.lst
 rm /home/tc/Tidal-Connect-Armv7.tar.gz
 sed -i '/ldconfig/d' /opt/bootlocal.sh
 echo ldconfig >>/opt/bootlocal.sh
-echo "Rebooting..."
-sleep 3
+#echo "Rebooting..."
+#sleep 3
 
 # wget -O - https://raw.githubusercontent.com/lovehifi/tidalconnect-picore/main/install.sh | sh
-pcp br
+#pcp br
 
 
